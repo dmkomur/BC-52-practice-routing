@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/BC-52-practice-routing/static/css/main.7acaea2f.css",
-    "main.js": "/BC-52-practice-routing/static/js/main.07d3183d.js",
+    "main.js": "/BC-52-practice-routing/static/js/main.afe44284.js",
     "index.html": "/BC-52-practice-routing/index.html",
-    "main.7acaea2f.css.map": "/BC-52-practice-routing/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/BC-52-practice-routing/static/js/main.07d3183d.js.map"
+    "main.afe44284.js.map": "/BC-52-practice-routing/static/js/main.afe44284.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.afe44284.js"
   ]
 }
