@@ -11,6 +11,9 @@ const Navigation = () => {
         <li>
           <StayledLink to="events">Events</StayledLink>
         </li>
+        <li>
+          <StayledLink to="search">Search</StayledLink>
+        </li>
       </ul>
     </nav>
   );
